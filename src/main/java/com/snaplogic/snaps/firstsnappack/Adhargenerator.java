@@ -77,7 +77,7 @@ public class Adhargenerator implements Snap {
             }
             else
             {
-                record.put("message",name+ "an Indian" +id+ "has been generated adhar"+uuid.toString());
+                record.put("message",name+ "is an Indian of ID " +id+ "has been generated adhar "+uuid.toString());
             }
             Document outputDocument=documentUtility.newDocument(record);
             outputViews.write(outputDocument);

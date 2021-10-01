@@ -1,5 +1,5 @@
 {
-  "id" : "com-snaplogic-snaps-firstsnappack-docgenerator_1-second",
+  "id" : "com-snaplogic-snaps-firstsnappack-docgenerator_1-3",
   "type" : "object",
   "description" : "A schema for a snap",
   "description" : "The common schema for snaps.",
@@ -214,7 +214,7 @@
       },
       "snap_pack_build_number" : {
         "ui_row_count" : 1,
-        "value" : "second",
+        "value" : "3",
         "info_text" : "The build number of the Snap pack to which the Snap belongs.",
         "sensitivity_level" : "public",
         "label_text" : "Snap-pack build-number",
@@ -224,7 +224,7 @@
       },
       "snap_pack_fqid" : {
         "ui_row_count" : 1,
-        "value" : "firstsnappack-snap-1-second.zip",
+        "value" : "firstsnappack-snap-1-3.zip",
         "info_text" : "The fully qualified id of Snap pack to which the Snap belongs.",
         "sensitivity_level" : "public",
         "label_text" : "Snap-pack fqid",
@@ -304,7 +304,7 @@
       },
       "class_fqid" : {
         "ui_row_count" : 2,
-        "value" : "com-snaplogic-snaps-firstsnappack-docgenerator_1-second",
+        "value" : "com-snaplogic-snaps-firstsnappack-docgenerator_1-3",
         "info_text" : "The unique identifier of the Snap",
         "sensitivity_level" : "public",
         "label_text" : "Class FQID",

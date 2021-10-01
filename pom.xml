@@ -261,7 +261,8 @@
             com.snaplogic.snaps.firstsnappack.Suggest,
             com.snaplogic.snaps.firstsnappack.TwoInputs,
             com.snaplogic.snaps.firstsnappack.TwoInputsTwoOutputs,
-            com.snaplogic.snaps.firstsnappack.Adhargenerator
+            com.snaplogic.snaps.firstsnappack.Adhargenerator,
+            com.snaplogic.snaps.firstsnappack.StringProcessor
         </snap.classes>
         <!-- This identifies the classes which represent the actual Accounts
             (and become accessible on the Snaplex/JCC after deployment).
