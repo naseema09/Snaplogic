@@ -1,4 +1,4 @@
-NAME firstsnappack
+NAME stringprocessor2
 VERSION 1
 LANG java
-ASSET_DIR_PATH projects/shared
+ASSET_DIR_PATH /snaplogic/shared
