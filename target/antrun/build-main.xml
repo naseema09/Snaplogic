@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <project name="maven-antrun-" default="main"  >
 <target name="main">
-  <echo file="/tmp/naseema/snappack/stringprocessor2/target/classes/build.properties">build_number=0001
+  <echo file="/tmp/naseema/snappack/GradeCal/target/classes/build.properties">build_number=6
                                     snap_pack_version=1
-                                    snap_pack_fqid=stringprocessor2-snap-1-0001.zip
-                                    snap_pack_url=$SNAP_HOME/stringprocessor2/target/stringprocessor2-build
+                                    snap_pack_fqid=GradeCal-snap-1-6.zip
+                                    snap_pack_url=$SNAP_HOME/GradeCal/target/GradeCal-build
                                     snap_pack_name=${NAME}</echo>
 </target>
 </project>
