@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
         <module name="student" />
+=======
+        <module name="firstsnappack" />
+>>>>>>> 962d840b1a5f3665d23c1264b00ba5b88873155f
       </profile>
     </annotationProcessing>
   </component>

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 NAME student
+=======
+NAME GradeCal
+>>>>>>> 962d840b1a5f3665d23c1264b00ba5b88873155f
 VERSION 1
 LANG java
 ASSET_DIR_PATH /snaplogic/shared

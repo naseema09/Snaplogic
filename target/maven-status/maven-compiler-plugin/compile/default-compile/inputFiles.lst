@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /tmp/naseema/snaps/student/src/main/java/com/naseema/snaps/student/CurrencyConverter.java
 /tmp/naseema/snaps/student/src/main/java/com/naseema/snaps/student/CharacterCounter.java
 /tmp/naseema/snaps/student/src/main/java/com/naseema/snaps/student/StudentCsvfile.java
@@ -11,3 +12,20 @@
 /tmp/naseema/snaps/student/src/main/java/com/naseema/snaps/student/SchemaExample.java
 /tmp/naseema/snaps/student/src/main/java/com/naseema/snaps/student/TwoInputs.java
 /tmp/naseema/snaps/student/src/main/java/com/naseema/snaps/student/ExampleAccount.java
+=======
+/tmp/naseema/snapdev/firstsnappack/src/main/java/com/snaplogic/snaps/firstsnappack/SingleDocGenerator.java
+/tmp/naseema/snapdev/firstsnappack/src/main/java/com/snaplogic/snaps/firstsnappack/SnapWithAccount.java
+/tmp/naseema/snapdev/firstsnappack/src/main/java/com/snaplogic/snaps/firstsnappack/PropertyTypes.java
+/tmp/naseema/snapdev/firstsnappack/src/main/java/com/snaplogic/snaps/firstsnappack/DocConsumer.java
+/tmp/naseema/snapdev/firstsnappack/src/main/java/com/snaplogic/snaps/firstsnappack/Adhargenerator.java
+/tmp/naseema/snapdev/firstsnappack/src/main/java/com/snaplogic/snaps/firstsnappack/TwoInputs.java
+/tmp/naseema/snapdev/firstsnappack/src/main/java/com/snaplogic/snaps/firstsnappack/CharacterCounter.java
+/tmp/naseema/snapdev/firstsnappack/src/main/java/com/snaplogic/snaps/firstsnappack/DocGenerator.java
+/tmp/naseema/snapdev/firstsnappack/src/main/java/com/snaplogic/snaps/firstsnappack/ExampleAccount.java
+/tmp/naseema/snapdev/firstsnappack/src/main/java/com/snaplogic/snaps/firstsnappack/SchemaExample.java
+/tmp/naseema/snapdev/firstsnappack/src/main/java/com/snaplogic/snaps/firstsnappack/Suggest.java
+/tmp/naseema/snapdev/firstsnappack/src/main/java/com/snaplogic/snaps/firstsnappack/TwoInputsTwoOutputs.java
+/tmp/naseema/snapdev/firstsnappack/src/main/java/com/snaplogic/snaps/firstsnappack/StringProcessor.java
+/tmp/naseema/snapdev/firstsnappack/src/main/java/com/snaplogic/snaps/firstsnappack/Adhar.java
+/tmp/naseema/snapdev/firstsnappack/src/main/java/com/snaplogic/snaps/firstsnappack/CurrencyConverter.java
+>>>>>>> 962d840b1a5f3665d23c1264b00ba5b88873155f

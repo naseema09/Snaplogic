@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /tmp/naseema/snaps/student/src/test/java/com/naseema/snaps/student/DocGeneratorTest.java
 /tmp/naseema/snaps/student/src/test/java/com/naseema/snaps/student/DocConsumerTest.java
 /tmp/naseema/snaps/student/src/test/java/com/naseema/snaps/student/SingleDocGeneratorTest.java
@@ -8,3 +9,15 @@
 /tmp/naseema/snaps/student/src/test/java/com/naseema/snaps/student/PropertyTypesTest.java
 /tmp/naseema/snaps/student/src/test/java/com/naseema/snaps/student/SuggestTest.java
 /tmp/naseema/snaps/student/src/test/java/com/naseema/snaps/student/CurrencyConverterTest.java
+=======
+/tmp/naseema/snapdev/firstsnappack/src/test/java/com/snaplogic/snaps/firstsnappack/SnapWithAccountTest.java
+/tmp/naseema/snapdev/firstsnappack/src/test/java/com/snaplogic/snaps/firstsnappack/SingleDocGeneratorTest.java
+/tmp/naseema/snapdev/firstsnappack/src/test/java/com/snaplogic/snaps/firstsnappack/PropertyTypesTest.java
+/tmp/naseema/snapdev/firstsnappack/src/test/java/com/snaplogic/snaps/firstsnappack/DocConsumerTest.java
+/tmp/naseema/snapdev/firstsnappack/src/test/java/com/snaplogic/snaps/firstsnappack/TwoInputsTwoOutputsTest.java
+/tmp/naseema/snapdev/firstsnappack/src/test/java/com/snaplogic/snaps/firstsnappack/CurrencyConverterTest.java
+/tmp/naseema/snapdev/firstsnappack/src/test/java/com/snaplogic/snaps/firstsnappack/CharacterCounterTest.java
+/tmp/naseema/snapdev/firstsnappack/src/test/java/com/snaplogic/snaps/firstsnappack/DocGeneratorTest.java
+/tmp/naseema/snapdev/firstsnappack/src/test/java/com/snaplogic/snaps/firstsnappack/SchemaExampleTest.java
+/tmp/naseema/snapdev/firstsnappack/src/test/java/com/snaplogic/snaps/firstsnappack/SuggestTest.java
+>>>>>>> 962d840b1a5f3665d23c1264b00ba5b88873155f

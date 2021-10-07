@@ -3,12 +3,21 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+<<<<<<< HEAD
     <groupId>com.naseema.snaps</groupId>
     <artifactId>student</artifactId>
     <version>1-0001</version>
     <packaging>jar</packaging>
 
     <name>student</name>
+=======
+    <groupId>com.snaplogic.snaps</groupId>
+    <artifactId>firstsnappack</artifactId>
+    <version>1-0001</version>
+    <packaging>jar</packaging>
+
+    <name>firstsnappack</name>
+>>>>>>> 962d840b1a5f3665d23c1264b00ba5b88873155f
         <repositories>
         <repository>
             <id>central</id>
@@ -243,13 +252,19 @@
     </build>
         <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+<<<<<<< HEAD
         <jar.finalName>student-${VERSION}-${sl_build}</jar.finalName>
         <snap>student</snap>
+=======
+        <jar.finalName>firstsnappack-${VERSION}-${sl_build}</jar.finalName>
+        <snap>firstsnappack</snap>
+>>>>>>> 962d840b1a5f3665d23c1264b00ba5b88873155f
         <package.build_no>${sl_build}</package.build_no>
         <!-- This identifies the classes which represent the actual Snaps
             (and become accessible on the Snaplex/JCC after deployment).
         -->
         <snap.classes>
+<<<<<<< HEAD
             com.naseema.snaps.student.CharacterCounter,
             com.naseema.snaps.student.CurrencyConverter,
             com.naseema.snaps.student.DocConsumer,
@@ -262,19 +277,42 @@
             com.naseema.snaps.student.TwoInputs,
             com.naseema.snaps.student.TwoInputsTwoOutputs,
             com.naseema.snaps.student.StudentCsvfile
+=======
+            com.snaplogic.snaps.firstsnappack.CharacterCounter,
+            com.snaplogic.snaps.firstsnappack.CurrencyConverter,
+            com.snaplogic.snaps.firstsnappack.DocConsumer,
+            com.snaplogic.snaps.firstsnappack.DocGenerator,
+            com.snaplogic.snaps.firstsnappack.PropertyTypes,
+            com.snaplogic.snaps.firstsnappack.SchemaExample,
+            com.snaplogic.snaps.firstsnappack.SingleDocGenerator,
+            com.snaplogic.snaps.firstsnappack.SnapWithAccount,
+            com.snaplogic.snaps.firstsnappack.Suggest,
+            com.snaplogic.snaps.firstsnappack.TwoInputs,
+            com.snaplogic.snaps.firstsnappack.TwoInputsTwoOutputs,
+            com.snaplogic.snaps.firstsnappack.Adhargenerator,
+            com.snaplogic.snaps.firstsnappack.StringProcessor
+>>>>>>> 962d840b1a5f3665d23c1264b00ba5b88873155f
         </snap.classes>
         <!-- This identifies the classes which represent the actual Accounts
             (and become accessible on the Snaplex/JCC after deployment).
         -->
         <account.classes>
+<<<<<<< HEAD
             com.naseema.snaps.student.ExampleAccount
+=======
+            com.snaplogic.snaps.firstsnappack.ExampleAccount
+>>>>>>> 962d840b1a5f3665d23c1264b00ba5b88873155f
         </account.classes>
         <!-- Enter your cc key prefix from keys.properties -->
         <key.prefix>cc</key.prefix>
         <!-- This is the user name that is authorized to deploy Snap Packs-->
         <user>cc+snaplogic@snaplogic.com</user>
         <!-- This is the organization name on the pod where the Snap Pack will be deployed. -->
+<<<<<<< HEAD
         <organization>snaplogic</organization>
+=======
+        <organization>Project Spaces</organization>
+>>>>>>> 962d840b1a5f3665d23c1264b00ba5b88873155f
         <sl_build>0001</sl_build>
         <VERSION>1</VERSION>
 
@@ -300,11 +338,14 @@
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
+<<<<<<< HEAD
             <dependency>
                 <groupId>org.apache.commons</groupId>
                 <artifactId>commons-csv</artifactId>
                 <version>1.5</version>
             </dependency>
+=======
+>>>>>>> 962d840b1a5f3665d23c1264b00ba5b88873155f
         </dependencies>
     </dependencyManagement>
 
@@ -330,11 +371,14 @@
             <artifactId>jackson-databind</artifactId>
         </dependency>
         <dependency>
+<<<<<<< HEAD
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-csv</artifactId>
             <version>1.5</version>
         </dependency>
         <dependency>
+=======
+>>>>>>> 962d840b1a5f3665d23c1264b00ba5b88873155f
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-core</artifactId>
         </dependency>
