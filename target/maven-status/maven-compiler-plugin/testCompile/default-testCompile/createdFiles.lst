@@ -1,0 +1,14 @@
+com/naseema/snaps/student/DocGeneratorTest.class
+com/naseema/snaps/student/CurrencyConverterTest$FakeForeignExchangeInjector.class
+com/naseema/snaps/student/SchemaExampleTest.class
+com/naseema/snaps/student/CurrencyConverterTest.class
+com/naseema/snaps/student/CurrencyConverterTest$FakeForeignExchange.class
+com/naseema/snaps/student/CharacterCounterTest.class
+com/naseema/snaps/student/DocConsumerTest.class
+com/naseema/snaps/student/SingleDocGeneratorTest.class
+com/naseema/snaps/student/SnapWithAccountTest$StubExampleAccount.class
+com/naseema/snaps/student/TwoInputsTwoOutputsTest.class
+com/naseema/snaps/student/PropertyTypesTest.class
+com/naseema/snaps/student/CurrencyConverterTest$ExchangeRatesSupplier.class
+com/naseema/snaps/student/SuggestTest.class
+com/naseema/snaps/student/SnapWithAccountTest.class

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <echo file="/tmp/naseema/snaps/student/target/classes/build.properties">build_number=6
+                                    snap_pack_version=1
+                                    snap_pack_fqid=student-snap-1-6.zip
+                                    snap_pack_url=$SNAP_HOME/student/target/student-build
+                                    snap_pack_name=${NAME}</echo>
+</target>
+</project>
