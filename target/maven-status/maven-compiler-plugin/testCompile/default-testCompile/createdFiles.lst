@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 com/naseema/snaps/student/DocGeneratorTest.class
 com/naseema/snaps/student/CurrencyConverterTest$FakeForeignExchangeInjector.class
 com/naseema/snaps/student/SchemaExampleTest.class
@@ -29,3 +30,6 @@ com/snaplogic/snaps/firstsnappack/CurrencyConverterTest.class
 com/snaplogic/snaps/firstsnappack/CurrencyConverterTest$FakeForeignExchangeInjector.class
 com/snaplogic/snaps/firstsnappack/PropertyTypesTest.class
 >>>>>>> 962d840b1a5f3665d23c1264b00ba5b88873155f
+=======
+com/naseema/snaps/Counter/CharacterCounterTest.class
+>>>>>>> Counter snap

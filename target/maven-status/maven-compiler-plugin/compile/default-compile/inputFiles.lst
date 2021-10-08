@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /tmp/naseema/snaps/student/src/main/java/com/naseema/snaps/student/CurrencyConverter.java
 /tmp/naseema/snaps/student/src/main/java/com/naseema/snaps/student/CharacterCounter.java
 /tmp/naseema/snaps/student/src/main/java/com/naseema/snaps/student/StudentCsvfile.java
@@ -29,3 +30,7 @@
 /tmp/naseema/snapdev/firstsnappack/src/main/java/com/snaplogic/snaps/firstsnappack/Adhar.java
 /tmp/naseema/snapdev/firstsnappack/src/main/java/com/snaplogic/snaps/firstsnappack/CurrencyConverter.java
 >>>>>>> 962d840b1a5f3665d23c1264b00ba5b88873155f
+=======
+/tmp/naseema/snaps/Counter/src/main/java/com/naseema/snaps/Counter/Counter.java
+/tmp/naseema/snaps/Counter/src/main/java/com/naseema/snaps/Counter/CharacterCounter.java
+>>>>>>> Counter snap

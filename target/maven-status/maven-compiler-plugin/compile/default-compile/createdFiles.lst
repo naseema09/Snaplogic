@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 com/naseema/snaps/student/Suggest$1.class
 com/naseema/snaps/student/CharacterCounter.class
 com/naseema/snaps/student/CurrencyConverter$ForExImpl.class
@@ -47,3 +48,8 @@ com/snaplogic/snaps/firstsnappack/Suggest.class
 com/snaplogic/snaps/firstsnappack/DocConsumer.class
 com/snaplogic/snaps/firstsnappack/PropertyTypes.class
 >>>>>>> 962d840b1a5f3665d23c1264b00ba5b88873155f
+=======
+com/naseema/snaps/Counter/Counter.class
+com/naseema/snaps/Counter/CharacterCounter.class
+com/naseema/snaps/Counter/CharacterCounter$1.class
+>>>>>>> Counter snap

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 NAME student
 =======
 NAME GradeCal
@@ -6,3 +7,9 @@ NAME GradeCal
 VERSION 1
 LANG java
 ASSET_DIR_PATH /snaplogic/shared
+=======
+NAME Counter
+VERSION 1
+LANG java
+ASSET_DIR_PATH //shared
+>>>>>>> Counter snap

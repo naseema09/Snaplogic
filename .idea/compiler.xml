@@ -7,10 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
 <<<<<<< HEAD
+<<<<<<< HEAD
         <module name="student" />
 =======
         <module name="firstsnappack" />
 >>>>>>> 962d840b1a5f3665d23c1264b00ba5b88873155f
+=======
+        <module name="Counter" />
+>>>>>>> Counter snap
       </profile>
     </annotationProcessing>
   </component>
