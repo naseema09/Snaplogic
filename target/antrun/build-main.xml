@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <echo file="/home/gaian/Training/snappack/com.naseema.snaps.filereader/target/classes/build.properties">build_number=0016
+                                    snap_pack_version=1
+                                    snap_pack_fqid=com.naseema.snaps.filereader-snap-1-0016.zip
+                                    snap_pack_url=$SNAP_HOME/com.naseema.snaps.filereader/target/com.naseema.snaps.filereader-build
+                                    snap_pack_name=${NAME}</echo>
+</target>
+</project>
