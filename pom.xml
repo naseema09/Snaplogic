@@ -250,7 +250,8 @@
             (and become accessible on the Snaplex/JCC after deployment).
         -->
         <snap.classes>
-            com.naseema.snaps.filereader.filereader
+            com.naseema.snaps.filereader.filereader,
+            com.naseema.snaps.filereader.ExpressionProp
 
         </snap.classes>
         <!-- This identifies the classes which represent the actual Accounts
