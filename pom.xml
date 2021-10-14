@@ -251,7 +251,8 @@
         -->
         <snap.classes>
             com.naseema.snaps.filereader.filereader,
-            com.naseema.snaps.filereader.ExpressionProp
+            com.naseema.snaps.filereader.ExpressionProp,
+            com.naseema.snaps.filereader.LookUp
 
         </snap.classes>
         <!-- This identifies the classes which represent the actual Accounts
@@ -289,6 +290,12 @@
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
+
+            <dependency>
+                <groupId>org.apache.commons</groupId>
+                <artifactId>commons-csv</artifactId>
+                <version>1.5</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
@@ -306,6 +313,11 @@
             <groupId>com.snaplogic</groupId>
             <artifactId>jtest</artifactId>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-csv</artifactId>
+            <version>1.5</version>
         </dependency>
 
         <!-- third-party dependencies bundled in jcc and declared in bom with provided scope -->
