@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 com/naseema/snaps/stringprocessor2/stringHandler.class
+=======
+com/naseema/snaps/filereader/LookUp.class
+com/naseema/snaps/filereader/filereader.class
+com/naseema/snaps/filereader/ExpressionProp.class
+>>>>>>> 76f82797c539e2e015ea7b22de88b6dbb6551008

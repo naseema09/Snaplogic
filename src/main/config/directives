@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 NAME stringprocessor2
+=======
+NAME filereader
+>>>>>>> 76f82797c539e2e015ea7b22de88b6dbb6551008
 VERSION 1
 LANG java
 ASSET_DIR_PATH /snaplogic/shared

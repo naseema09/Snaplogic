@@ -4,11 +4,19 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.naseema.snaps</groupId>
+<<<<<<< HEAD
     <artifactId>stringprocessor2</artifactId>
     <version>1-0001</version>
     <packaging>jar</packaging>
 
     <name>stringprocessor2</name>
+=======
+    <artifactId>com.naseema.snaps.filereader</artifactId>
+    <version>1-0001</version>
+    <packaging>jar</packaging>
+
+    <name>com.naseema.snaps.filereader</name>
+>>>>>>> 76f82797c539e2e015ea7b22de88b6dbb6551008
         <repositories>
         <repository>
             <id>central</id>
@@ -243,14 +251,26 @@
     </build>
         <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+<<<<<<< HEAD
         <jar.finalName>stringprocessor2-${VERSION}-${sl_build}</jar.finalName>
         <snap>stringprocessor2</snap>
+=======
+        <jar.finalName>com.naseema.snaps.filereader-${VERSION}-${sl_build}</jar.finalName>
+        <snap>com.naseema.snaps.filereader</snap>
+>>>>>>> 76f82797c539e2e015ea7b22de88b6dbb6551008
         <package.build_no>${sl_build}</package.build_no>
         <!-- This identifies the classes which represent the actual Snaps
             (and become accessible on the Snaplex/JCC after deployment).
         -->
         <snap.classes>
+<<<<<<< HEAD
             com.naseema.snaps.stringprocessor2.stringHandler
+=======
+            com.naseema.snaps.filereader.filereader,
+            com.naseema.snaps.filereader.ExpressionProp,
+            com.naseema.snaps.filereader.LookUp
+
+>>>>>>> 76f82797c539e2e015ea7b22de88b6dbb6551008
         </snap.classes>
         <!-- This identifies the classes which represent the actual Accounts
             (and become accessible on the Snaplex/JCC after deployment).
@@ -287,6 +307,15 @@
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
+<<<<<<< HEAD
+=======
+
+            <dependency>
+                <groupId>org.apache.commons</groupId>
+                <artifactId>commons-csv</artifactId>
+                <version>1.5</version>
+            </dependency>
+>>>>>>> 76f82797c539e2e015ea7b22de88b6dbb6551008
         </dependencies>
     </dependencyManagement>
 
@@ -305,6 +334,14 @@
             <artifactId>jtest</artifactId>
             <scope>test</scope>
         </dependency>
+<<<<<<< HEAD
+=======
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-csv</artifactId>
+            <version>1.5</version>
+        </dependency>
+>>>>>>> 76f82797c539e2e015ea7b22de88b6dbb6551008
 
         <!-- third-party dependencies bundled in jcc and declared in bom with provided scope -->
         <dependency>

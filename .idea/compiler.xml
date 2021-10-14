@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
         <module name="stringprocessor2" />
+=======
+        <module name="com.naseema.snaps.filereader" />
+>>>>>>> 76f82797c539e2e015ea7b22de88b6dbb6551008
       </profile>
     </annotationProcessing>
   </component>
