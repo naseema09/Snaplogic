@@ -1,7 +1,0 @@
-{
-  "settings" : {
-    "inputFile" : {
-      "value" : "mock:///exchange_rates_file.json"
-    }
-  }
-}
