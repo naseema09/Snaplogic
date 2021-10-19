@@ -1,7 +1,7 @@
 /*
  * SnapLogic - Data Integration
  *
- * Copyright (C) 2015, SnapLogic, Inc.  All rights reserved.
+ * Copyright (C) 2021, SnapLogic, Inc.  All rights reserved.
  *
  * This program is licensed under the terms of
  * the SnapLogic Commercial Subscription agreement.
@@ -41,7 +41,7 @@ import static com.naseema.snaps.admission.Messages.SNAP_PURPOSE;
 /**
  * Snap to read the given input by use of Suggestions
  *
- * @author smudassir
+ * @author naseema
  */
 @General(title = SNAP_TITLE,author = "naseema",purpose = SNAP_PURPOSE,docLink = "http://doclink.com")
 @Inputs(min = 0,max = 1,accepts = ViewType.DOCUMENT)
